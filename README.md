@@ -1,5 +1,17 @@
 # blocks-horror
 One of Northeastern Game Studio's submissions for Coding Blocks Game Jam 2022
+## Credits
+
+#### Marco Hampel
+Software Developer, Game Integration, Engine Development, Shader Development, Publishing Manager, Lighting
+
+#### Queenie Liang
+Artist, Animator
+
+#### Alex Siegel
+Level Designer, Sound Design
+
+#### 
 
 ## Game Description: 
 You are a worker in a glass factory, who came to the office on an off-day to check up on a strange work request put in from one of your supervisors anonymously. You reach your office to check the request out when suddenly the lights turn off. Nearby, you hear the sound of glass shattering...

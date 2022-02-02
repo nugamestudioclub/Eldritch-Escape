@@ -10,3 +10,28 @@ Wander through a maze of dark corridors and find the missing gems you need to un
 - The following folders are all part of the project's **Assets** folder.
 - The game runs on the Universal Render Pipeline for Unity, however no URP settings are included in this repository.
 - Do keep in mind, this also uses the URP 2D Experimental rendering system, not the standard URP 3D games.
+
+### Animations
+- Animation controllers + Animation Objects used in the game
+
+### Fog of War Package:
+- Two shaders written in HLSL to manage the fog of war
+  - Shaders make parts of objects not rendered when not lit by a 2D light.
+
+### Font:
+- Font used
+
+### URP Assets:
+- Pipeline assets used to configure the rendering pipeline.
+
+### Prefabs:
+- Scnene Objects used and spawned in throughout the game's level + world.
+
+### Scenes:
+- List of Scene assets used
+  - Currently 2 scenes: Main menu and Level (Sample Scene)
+
+### Scripts:
+- Folder contains all scripts used in the game.
+- Menu Script.cs is used for Main Menu UI
+- NAV2D sub folder is never used.

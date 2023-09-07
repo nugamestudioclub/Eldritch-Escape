@@ -1,5 +1,5 @@
-# blocks-horror
-One of Northeastern Game Studio's submissions for Coding Blocks Game Jam 2022
+# Eldritch Escape
+One of Northeastern Game Studio's submissions for Coding Blocks Game Jam 2022 https://marco-s-hampel.itch.io/eldritch-escape
 ## Credits
 
 #### Marco Hampel
